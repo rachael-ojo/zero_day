@@ -6,10 +6,3 @@
            [-Q cipher | cipher-auth | mac | kex | key]
            [-R [bind_address:]port:host:hostport] [-S ctl_path] [-W host:port]
            [-w local_tun[:remote_tun]] [user@]hostname [command]
-
-
-
-
-
-
-
