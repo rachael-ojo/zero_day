@@ -1,3 +1,1 @@
-Project
-_Vagrant_Project
-_Vagrant_
+My first school project
